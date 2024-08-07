@@ -10,3 +10,8 @@ System.out.println(name);
 ```
 
 this commit includes three headings, h1, h3 and h6 respectively :)
+
+
+- [ ] This is a task item
+- [ ] Here's another
+- [x] And this is done
